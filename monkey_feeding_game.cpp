@@ -207,10 +207,6 @@ void checkWeight()
     menu();
 }
 
-void feedMonkeyFood()
-{
-}
-
 int main() {
     std::cout << "welcome to monkey feeding simulator!" << std::endl;
     newline();
